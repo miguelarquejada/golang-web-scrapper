@@ -1,0 +1,1 @@
+Aplicação Web Scraper Golang que visita a página g1.globo.com e imprime alguns títulos de matérias
